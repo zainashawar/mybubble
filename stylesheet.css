@@ -1,0 +1,55 @@
+/**.button {
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+}**/
+
+.button {
+  border-radius: 50px ;
+  height: 100px ;
+  width: 100px ;
+  font-size: 1em ;
+  border: 3px solid rgb(192, 241, 245);
+  background-color: rgb(126, 213, 228);
+  margin-top: 30px;
+}
+
+.button:hover {
+  background-color: rgb(150, 250, 250);
+}
+
+body {
+  font-family: 'Nova Round', cursive;
+  background-image: url('https://cdn1.vectorstock.com/i/1000x1000/30/15/blue-bubble-background-vector-3843015.jpg');
+  background-size: 950px;
+}
+.card {
+  background-color: rgba(255, 255, 255, 0.425);
+  margin-bottom: 40px;
+}
+h1 {
+  margin: 40px 0px 30px 0px;
+  color: white;
+  font-weight: bolder;
+}
+p{
+  margin-top: 10px;
+  color: azure;
+  font-size: 20px;
+}
+img {
+  border-radius: 8px;
+  margin:10px 20px 30px 20px;
+}
+.collapse{
+  color:black;
+}
+/** https://cdn1.vectorstock.com/i/1000x1000/30/15/blue-bubble-background-vector-3843015.jpg**/
