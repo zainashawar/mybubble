@@ -6,6 +6,7 @@ Social distancing is an important safety measure during the COVID-19 pandemic. W
 ## Welcome to MyBubble
 ----- 
 MyBubble is a web-based app that uses your mobile device's camera to display your personal bubble, or multiple bubbles, to help us keep physically distanced. We utilized [echoAR](https://www.echoar.xyz/) to create our AR social distancing hack.
+Check it out [here!](https://mybubble.surge.sh/)
 
 ## About Us
 -----
@@ -23,3 +24,5 @@ MyBubble came to life during TechTogetherBoston's 2020 Hackathon with Women Who 
 
 ## Screenshots
 -----
+
+
