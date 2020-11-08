@@ -1,17 +1,7 @@
-/**.button {
-  background-color: #4CAF50;
-  border: none;
-  border-radius: 12px;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
+a {
   text-decoration: none;
-  display: inline-block;
-  font-size: 18px;
-  margin: 4px 2px;
-  cursor: pointer;
-}**/
-
+  color: black;
+}
 .button {
   border-radius: 50px ;
   height: 100px ;
@@ -28,21 +18,29 @@
 
 body {
   font-family: 'Nova Round', cursive;
-  background-image: url('https://cdn1.vectorstock.com/i/1000x1000/30/15/blue-bubble-background-vector-3843015.jpg');
-  background-size: 950px;
+  background-image: url('https://lh3.googleusercontent.com/proxy/1qVj0_RGm3GFmPHhczEZncSgCRoSA0uzOjqSS7r12t7hhHyjZAd1lqLzOlEACdqU-sBWwcxNSrImNPErItcClo5B30v73zYkWYf744kwvCIG7ok7XnKRd1Epf8ex8GEmJovwiNQPJFWWcC6ViFIx');
+  
+  background-size: cover;
+  /* background-size: 1000px; */
+
 }
 .card {
+  /* background-color: rgba(56, 56, 56, 0.425); */
   background-color: rgba(255, 255, 255, 0.425);
   margin-bottom: 40px;
 }
+.card-text {
+  /* color: darkcyan; */
+  color: white;
+  font-weight: bold;
+}
 h1 {
   margin: 40px 0px 30px 0px;
-  color: white;
+  color:white;
   font-weight: bolder;
 }
 p{
   margin-top: 10px;
-  color: azure;
   font-size: 20px;
 }
 img {
@@ -53,3 +51,4 @@ img {
   color:black;
 }
 /** https://cdn1.vectorstock.com/i/1000x1000/30/15/blue-bubble-background-vector-3843015.jpg**/
+

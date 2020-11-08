@@ -10,9 +10,11 @@ Check it out [here!](https://mybubble.surge.sh/)
 
 ## About Us
 -----
-MyBubble came to life during TechTogetherBoston's 2020 Hackathon with Women Who Code Boston. Our team consists of varying backgrounds including students and graduates. 
-  - [Zaina Shawar](https://www.linkedin.com/in/zaina-shawar/)
-  - [Stavon Ewart](https://www.linkedin.com/in/stavon-ewart/)
+MyBubble came to life during TechTogether Boston's 2020 Hackathon with Women Who Code Boston. Our team consists of varying backgrounds including students and graduates. 
+  - Zaina Shawar - [linkedin](https://www.linkedin.com/in/zaina-shawar/)
+  - Vaibhavi Khamar - [linkedin](https://www.linkedin.com/in/Vaibhavi-Khamar/) - [github](https://github.com/Vaibhavi-Khamar)
+  - Thao Pham - 
+  - Stavon Ewart - [linkedin](https://www.linkedin.com/in/stavon-ewart/) - [github](https://github.com/StavonJoy)
 
 ## What We Used
 -----
@@ -23,6 +25,9 @@ MyBubble came to life during TechTogetherBoston's 2020 Hackathon with Women Who 
 - Google Fonts
 
 ## Screenshots
+-----
+
+## What we'll do next 
 -----
 
 
