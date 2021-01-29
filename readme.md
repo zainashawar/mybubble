@@ -12,7 +12,7 @@ MyBubble is a web-based app that uses your mobile device's camera to display you
 ## About Us
 -----
 MyBubble came to life during TechTogether Boston's 2020 Hackathon with Women Who Code Boston. Our team consists of varying backgrounds including students and graduates. 
-  - Zaina Shawar - [linkedin](https://www.linkedin.com/in/zaina-shawar/) - [github](https://github.com/zainashawar)
+  - Zaina Shawar - [linkedin](https://www.linkedin.com/in/zaina-shawar/) - [github](https://github.com/zshawar)
   - Vaibhavi Khamar - [linkedin](https://www.linkedin.com/in/Vaibhavi-Khamar/) - [github](https://github.com/Vaibhavi-Khamar)
   - Thao Pham - [linkedin](https://www.linkedin.com/in/thaopham1816/)
   - Stavon Ewart - [linkedin](https://www.linkedin.com/in/stavon-ewart/) - [github](https://github.com/StavonJoy)
